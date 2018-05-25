@@ -17,8 +17,8 @@ public class Login {
     public Login(WebDriver driver){this.driver =driver;}
 
     public  void  login(){
-        String UserName ="18516569029";
-        String Password ="a84100532";
+        String UserName ="18019281718";
+        String Password ="1111";
 
         driver.get(Constant.TEST_URL);
         Log.info(Constant.TEST_URL);
